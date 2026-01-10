@@ -1,0 +1,55 @@
+# 🎯 Target Shooter
+Juego web desarrollado como proyecto de práctica para reforzar
+conceptos de HTML, CSS y JavaScript puro, sin uso de frameworks.
+
+Un juego de disparos donde debes hacer clic en objetivos que aparecen
+aleatoriamente para ganar puntos antes de que se acabe el tiempo.
+
+## ✅ Características
+- Sistema de puntuación por objetivos acertados
+
+- Tiempo limitado de 30 segundos por partida
+- Generación aleatoria de objetivos en posiciones diferentes
+- Efectos visuales al disparar objetivos:
+- Animación de explosión
+- Efecto hover sobre los objetivos
+- Botón inteligente que cambia entre "Jugar" y "Reiniciar Juego"
+- Interfaz de juego clara con marcador y tiempo visible
+- Diseño responsive y centrado verticalmente
+
+## 🛠️ Tecnologías utilizadas
+- HTML5
+- CSS3
+- JavaScript (ES6)
+
+## 📋 Uso
+- Pulsa el botón "Jugar" para comenzar la partida
+- Haz clic en las bolas rojas que aparecen en pantalla
+- Cada acierto suma 1 punto a tu puntuación
+- El juego termina automáticamente tras 30 segundos
+- Usa "Reiniciar Juego" para comenzar una nueva partida
+
+## 📁 Estructura del proyecto
+```text
+target-shooter/
+├── index.html   # Estructura principal del juego
+├── styles.css   # Estilos y animaciones
+├── script.js    # Lógica del juego
+└── README.md    # Documentación
+```
+
+## 🔧 Instalación
+1. Clona el repositorio:
+
+```bash
+git clone https://github.com/tuusuario/target-shooter
+```
+2. Accede al directorio del proyecto:
+
+```bash
+cd target-shooter
+```
+
+3. Abre el archivo index.html en tu navegador.
+
+
