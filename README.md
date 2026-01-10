@@ -23,15 +23,15 @@ aleatoriamente para ganar puntos antes de que se acabe el tiempo.
 - JavaScript (ES6)
 
 ## 📋 Uso
-- Pulsa el botón "Jugar" para comenzar la partida
-- Haz clic en las bolas rojas que aparecen en pantalla
-- Cada acierto suma 1 punto a tu puntuación
-- El juego termina automáticamente tras 30 segundos
-- Usa "Reiniciar Juego" para comenzar una nueva partida
+1. Pulsa el botón "Jugar" para comenzar la partida
+2. Haz clic en las bolas rojas que aparecen en pantalla
+3. Cada acierto suma 1 punto a tu puntuación
+4. El juego termina automáticamente tras 30 segundos
+5. Usa "Reiniciar Juego" para comenzar una nueva partida
 
 ## 📁 Estructura del proyecto
 ```text
-target-shooter/
+shoot-game/
 ├── index.html   # Estructura principal del juego
 ├── styles.css   # Estilos y animaciones
 ├── script.js    # Lógica del juego
@@ -42,12 +42,12 @@ target-shooter/
 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/tuusuario/target-shooter
+git clone https://github.com/tuusuario/shoot-game
 ```
 2. Accede al directorio del proyecto:
 
 ```bash
-cd target-shooter
+cd shoot-game
 ```
 
 3. Abre el archivo index.html en tu navegador.
