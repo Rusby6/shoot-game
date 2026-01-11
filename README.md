@@ -10,8 +10,7 @@ aleatoriamente para ganar puntos antes de que se acabe el tiempo.
 
 - Tiempo limitado de 30 segundos por partida
 - Generación aleatoria de objetivos en posiciones diferentes
-- Efectos visuales al disparar objetivos:
-- Animación de explosión
+- Animación de explosión al disparar objetivos
 - Efecto hover sobre los objetivos
 - Botón inteligente que cambia entre "Jugar" y "Reiniciar Juego"
 - Interfaz de juego clara con marcador y tiempo visible
