@@ -41,7 +41,7 @@ shoot-game/
 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/Rusby6/shoot-game
+git clone https://github.com/Rusby6/shoot-game.git
 ```
 2. Accede al directorio del proyecto:
 
